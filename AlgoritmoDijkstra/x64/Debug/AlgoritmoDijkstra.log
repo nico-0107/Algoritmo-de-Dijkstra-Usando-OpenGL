@@ -1,0 +1,35 @@
+﻿  Application.cpp
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(64,25): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(159,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(160,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(166,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(167,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(174,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(188,37): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(218,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(224,27): warning C4267: 'inicializando': conversión de 'size_t' a 'char'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(226,50): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(235,37): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         with
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty=int
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         and
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty1=float
+D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+  (compilando archivo de origen "src/Application.cpp")
+      D:\Visual Studio 2022\VS 2022\VC\Tools\MSVC\14.43.34808\include\utility(274,16):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(121,13):
+          Vea la referencia a la creación de una instancia de la función plantilla "std::pair<float,int>::pair<int,int&,0>(_Other1 &&,_Other2) noexcept" que se está compilando
+          with
+          [
+              _Other1=int,
+              _Other2=int &
+          ]
+              D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\AlgoritmoDijkstra\src\Application.cpp(121,12):
+              vea la primera referencia a “std::pair<float,int>::pair” en “dijkstra”
+  
+  AlgoritmoDijkstra.vcxproj -> D:\Visual Studio Proyectos\Dijkstra\AlgoritmoDijkstra\x64\Debug\AlgoritmoDijkstra.exe
